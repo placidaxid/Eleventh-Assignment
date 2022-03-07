@@ -34,7 +34,10 @@ main{
     margin: 0 auto;
 }
 
-.box h3{
-    width: 60%;
-    margin:0 auto;
+.box h2{
+    margin-bottom: 20px;
+}
+p{
+    font-weight: 550;
+    margin-bottom: 20px;
 }
