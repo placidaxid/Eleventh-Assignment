@@ -14,7 +14,7 @@ main{
 }
 .box{
     width: var(--width400);
-    background-color: rgb(70, 67, 80);
+    background-color: bisque;
     text-align: center;
     position: absolute;
     top: 50%;
